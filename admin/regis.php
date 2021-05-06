@@ -6,5 +6,5 @@
 
         <div class = "clearfix"></div>
 
-            
+//tes 
 <?php include('partials/footer.php');?>
